@@ -1,8 +1,9 @@
 {
   "images" : [
     {
+      "filename" : "Group 12.png",
       "idiom" : "universal",
-      "platform" : "ios",
+      "platform" : "watchos",
       "size" : "1024x1024"
     }
   ],
